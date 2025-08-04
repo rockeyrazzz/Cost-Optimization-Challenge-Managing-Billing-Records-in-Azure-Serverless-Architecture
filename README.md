@@ -4,6 +4,7 @@ Strategy:
 Hot Data (Recent 3 months): Keep in Azure Cosmos DB.
 Cold Data (Older than 3 months): Move to Azure Blob Storage in a structured and queryable format (e.g., JSON or Parquet).
 Unified API Layer: A logic layer that abstracts Cosmos DB and Blob Storage, so your APIs don’t need to change.
+
 💡 Architecture Diagram
            +-------------------+
            |   API Layer       |
