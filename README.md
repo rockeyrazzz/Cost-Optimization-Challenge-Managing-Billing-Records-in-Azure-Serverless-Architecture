@@ -182,4 +182,4 @@ az role assignment create \
 | No downtime           | ✅   |
 | Simple to implement   | ✅   |
 
-Would you like the full working code of the Azure Function or Bicep/Terraform templates for automating this setup?
+Update with terraform script for provison the Infrastructure using terraform for the requirement.
